@@ -7,7 +7,7 @@ TreeHouse FrontEnd Project 1 - My personal profile page
 
 ## Brief Introduction
 
-* 
+* This is a personal website with 3 pages.
 
 ## Techniques Involed
 
